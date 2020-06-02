@@ -3,7 +3,7 @@ a new key and value in a dictionary present in it."""
 
 __author__ = "Swastik Saha"
 
-import os  # Importing os module
+import os
 
 # Declaring the dictionary in variable dict_editable
 dict_editable = {'apple': 'a fruit'}
